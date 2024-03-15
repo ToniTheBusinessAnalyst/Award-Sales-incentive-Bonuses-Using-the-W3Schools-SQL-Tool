@@ -1,0 +1,1 @@
+Hi! Thank you for taking the time to view my portfolio. I have uploaded a PDF file that walks through the project, my thought process througout, as well as the SQL queries that I used. Feel free to reach out if you have any further questions!
